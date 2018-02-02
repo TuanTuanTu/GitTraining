@@ -13,3 +13,4 @@ Test from tuanvn make this branch
 Why conflict?........Rebasing Learning.....
 
 
+Upgrade GIT to newest!!!
